@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "cos102_hat")(type "KiCad")(uri "${KIPRJMOD}/cos102_hat.pretty")(options "")(descr "COS-102 hat project footprints"))
+)
